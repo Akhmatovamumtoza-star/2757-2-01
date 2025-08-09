@@ -1,0 +1,36 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+  text-decoration: none;
+  color:inherit ;
+  list-style: none;
+}
+body{
+   background-color:  #2A5D5A;
+}
+h1{
+    background-color: #311313;
+    color: #fff;
+    font-size: 40px;
+   text-align: center;
+   margin: 22px 250px 32px 250px;
+   padding: 15px 0px 9px 0px
+}
+.box{
+    background-color: black;
+    border: 9px solid red;
+     width: 70%;
+     margin: auto;
+   
+}
+.title{
+   padding: 10px 30px;
+}
+.box-1{
+     background-color: #1FE8B7;
+     padding: 10px;
+     margin: 15px;
+     
+}
